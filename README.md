@@ -3,13 +3,13 @@
 Direct links for the PDFs in this repository:
 
 * CV:
-https://justicetechlab.github.io/jdoleac-website/cv/Doleac_CV_Oct2018.pdf
+https://justicetechlab.github.io/jdoleac-website/cv/Doleac_CV.pdf
 
 * Testing, Stress, and Performance: How Students Respond Physiologically to High-Stakes Testing: 
-https://justicetechlab.github.io/jdoleac-website/research/HADFM_TestingStress_181120.pdf
+https://justicetechlab.github.io/jdoleac-website/research/HADFM_TestingStress.pdf
 
 * The Moral Hazard of Lifesaving Innovations: Naloxone Access, Opioid Abuse, and Crime
-https://justicetechlab.github.io/jdoleac-website/research/Doleac_Mukherjee_Naloxone_Sep2018.pdf
+https://justicetechlab.github.io/jdoleac-website/research/Doleac_Mukherjee_Naloxone.pdf
 
 * Strategies to Productively Reincorporate the Formerly-Incarcerated into Communities: A Review of the Literature
 https://justicetechlab.github.io/jdoleac-website/research/SSRN-id3198112.pdf
